@@ -14,7 +14,6 @@ Một công cụ tự động giúp đánh giá động tác của người quâ
 ## 📤 Đầu ra
 
 - 🛑 **Các frame ảnh vi phạm** – tức là các khoảnh khắc mà quân nhân bị **trừ điểm** do không thực hiện đúng điều lệnh
-- 
 - 🛑 **Toạ độ các pose** – tức là toạ độ x, y của các điểm pose trong không gian 2D của bức ảnh
 ---
 
@@ -31,8 +30,6 @@ Tự động hóa việc đánh giá điều lệnh, giảm gánh nặng chấm 
 ---
 
 ## 🔧 Hướng dẫn sử dụng
-
-*(Bạn có thể bổ sung thêm phần này nếu muốn chia sẻ cách cài đặt, chạy chương trình, ví dụ như:)*
 
 ```bash
 # Clone repo
